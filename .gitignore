@@ -21,6 +21,7 @@ DerivedData
 *.ipa
 *.xcuserstate
 ios/.xcode.env.local
+project.xcworkspace
 
 # Android/IntelliJ
 #
@@ -33,6 +34,9 @@ local.properties
 .cxx/
 *.keystore
 !debug.keystore
+*.bundle
+*.bundle.map
+*.bundle.meta
 
 # node.js
 #
